@@ -1,0 +1,2 @@
+Link: https://www.kaggle.com/datasets/mostafaabla/garbage-classification
+Download and rename to garbage
